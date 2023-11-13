@@ -2,6 +2,10 @@
 
 Computer Network Project
 
+A BitTorrent client written in Python3.
+Learnings: The BitTorrent protocol, working with UDP packets, using Wireshark for debugging, writing asynchronous programs, network
+programming in Python (sending packets, dealing with network errors, managing multiple IO connections)
+
 ## Literature Survey
 
 - [https://www.kaspersky.com/resource-center/definitions/bittorrent](https://www.kaspersky.com/resource-center/definitions/bittorrent)
